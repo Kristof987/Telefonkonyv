@@ -1,0 +1,4 @@
+0;miskolci egyetem;3524;Miskolc;asdutca;4. 5/2;06;709423240;06;301234567;Janos;Jani;asd@gmail.com;nincs;
+1;Bosch;242;Miskolc;Miskolci Egyetem ;E/2 115;34;12345;12;12345;J┌sef;J┌si;joska@gmail.cpm;fd;
+1;peca;1111;Budapest;dio utca;25. 6. emelet;06;463453453;06;309999999;Ferenc;;valami@gmail.com;asd;
+2;Falyi;6666;Debrecen;;;36;700000005;36;0000005;;Gabi;asd@citromail.com;nincs;

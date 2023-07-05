@@ -1,0 +1,7 @@
+0;foldes_gimnazium;3525;miskolc;hosok_tere;2.;06;304567890;06;46494381;daniella;dani;daniel@gmail.com;-
+0;bme;3524;miskolc;nagy_Janos_utca;22.;06;709423240;06;9876543;istvan;pisti;pista@gmail.com;nincs
+0;bme;3524;miskolc;nagy_Janos_utca;22.;06;309423240;06;9876543;istvan;pisti;pista@gmail.com;nincs
+1;iroda;1000;szeged;temeto_ut;10._3C.;+36;9080012;36;2031000;anna;annus;nincs;19 eves
+1;nav;3510;miskolc;karoly korut;22._3._emelet_4._ajto;06;70876678;06;95880367;balazs;balazskiraly;balazska012@gmail.com;nincs_csengo
+1;Bosch;2420;miskolc;miskolci_egyetem_u.;E2 115;34;12345;12;12345;jozsef;jozsi;joska@gmail.cpm;fb
+2;bejar;3333;pecs;hajnal_utca;2.;06;70666666;06;908888;medgyesi;mester;medadaab@gmail.com;prog

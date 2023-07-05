@@ -1,0 +1,152 @@
+# depslib dependency file v1.0
+1652734292 source:c:\users\gamer\documents\egyetem\prog2\telefonkonyv\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<locale>
+	"address.h"
+	"book.h"
+	"menu.h"
+	"record.h"
+	"memtrace.h"
+	"gtest_lite.h"
+	"econio.h"
+
+1652825278 c:\users\gamer\documents\egyetem\prog2\telefonkonyv\book.h
+	<cstdlib>
+	<iostream>
+	"record.h"
+	"number.h"
+	<fstream>
+	<sstream>
+	"retired.h"
+	"adult.h"
+	"student.h"
+	"memtrace.h"
+
+1652871934 c:\users\gamer\documents\egyetem\prog2\telefonkonyv\record.h
+	<iostream>
+	"number.h"
+	"address.h"
+	"memtrace.h"
+	<string>
+
+1652872644 c:\users\gamer\documents\egyetem\prog2\telefonkonyv\number.h
+	<iostream>
+	"memtrace.h"
+	<string>
+
+1652825278 source:c:\users\gamer\documents\egyetem\prog2\telefonkonyv\econio.cpp
+	"econio.h"
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<assert.h>
+	<assert.h>
+	<stdio.h>
+	<termios.h>
+	<unistd.h>
+	<stdbool.h>
+	<sys/time.h>
+	<sys/types.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+
+1652825278 c:\users\gamer\documents\egyetem\prog2\telefonkonyv\econio.h
+	<stdbool.h>
+
+1652824957 c:\users\gamer\documents\egyetem\prog2\telefonkonyv\address.h
+	<iostream>
+	"memtrace.h"
+	<limits>
+	<string>
+
+1652698664 c:\users\gamer\documents\egyetem\prog2\telefonkonyv\menu.h
+	"search.h"
+
+1652825278 source:c:\users\gamer\documents\egyetem\prog2\telefonkonyv\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1652873192 c:\users\gamer\documents\egyetem\prog2\telefonkonyv\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+
+1652872659 c:\users\gamer\documents\egyetem\prog2\telefonkonyv\student.h
+	"record.h"
+	"memtrace.h"
+
+1652825278 c:\users\gamer\documents\egyetem\prog2\telefonkonyv\adult.h
+	"record.h"
+	"memtrace.h"
+
+1652872653 c:\users\gamer\documents\egyetem\prog2\telefonkonyv\retired.h
+	"record.h"
+	"memtrace.h"
+
+1652299285 c:\users\gamer\documents\egyetem\prog2\telefonkonyv\gtest_lite.h
+	"memtrace.h"
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<cstdlib>
+	<string>
+	<fstream>
+	<iterator>
+	<regex>
+	"memtrace.h"
+
+1652825278 c:\users\gamer\documents\egyetem\prog2\telefonkonyv\search.h
+	"book.h"
+
+1652453219 c:\users\gamer\documents\egyetem\prog2\telefonkonyv\nsc.c
+	<iostream>
+	<string>
+
+1650465509 c:\users\gamer\documents\egyetem\prog2\telefonkonyv\cross_platform.h
+	<iostream>
+	<string>
+
+1652824900 source:c:\users\gamer\documents\egyetem\prog2\telefonkonyv\adult.cpp
+	"adult.h"
+
+1652825278 source:c:\users\gamer\documents\egyetem\prog2\telefonkonyv\address.cpp
+	"address.h"
+
+1652825278 source:c:\users\gamer\documents\egyetem\prog2\telefonkonyv\book.cpp
+	"book.h"
+
+1652872018 source:c:\users\gamer\documents\egyetem\prog2\telefonkonyv\menu.cpp
+	"econio.h"
+
+1652825278 source:c:\users\gamer\documents\egyetem\prog2\telefonkonyv\number.cpp
+	"number.h"
+
+1652781412 source:c:\users\gamer\documents\egyetem\prog2\telefonkonyv\record.cpp
+	"record.h"
+
+1652825278 source:c:\users\gamer\documents\egyetem\prog2\telefonkonyv\retired.cpp
+	"retired.h"
+
+1652825278 source:c:\users\gamer\documents\egyetem\prog2\telefonkonyv\search.cpp
+	"search.h"
+
+1652825278 source:c:\users\gamer\documents\egyetem\prog2\telefonkonyv\student.cpp
+	"student.h"
+
